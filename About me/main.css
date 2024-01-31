@@ -1,0 +1,18 @@
+ul, ol {
+    list-style: none;
+}
+
+li {
+    text-decoration: none;
+}
+
+.a_links {
+    text-decoration: none;
+    text-size-adjust: 20 px;
+    color: #111;
+} 
+
+.a_links :hover {
+    color: red;
+    font-size: 18 px;
+}
